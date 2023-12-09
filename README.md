@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## Hosted on Vercel:  https://vercel.com/rbrishi/dynamic-form-generator-application
+# Hosted on Vercel:  https://dynamic-form-generator-application.vercel.app/
